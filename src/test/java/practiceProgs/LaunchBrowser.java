@@ -18,6 +18,8 @@ public class LaunchBrowser {
 		System.out.println("Post Jira7");
 		
 		System.out.println("Develope Branch");
+		
+		System.out.println("GitX Develope Branch");
 	}
 
 }
